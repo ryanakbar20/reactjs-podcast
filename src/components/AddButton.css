@@ -1,0 +1,8 @@
+.float {
+    background: cyan;
+    color: aliceblue;
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 100px;
+}

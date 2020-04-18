@@ -1,0 +1,279 @@
+.clear {
+    clear: both;
+}
+
+.input:focus {
+    background: rgb(227, 236, 255);
+    color: #7180ff;
+}
+
+body {
+    background: rgba(0, 97, 177, 0.075);
+}
+
+.side-left .shortcut {
+    width: 60px;
+    height: 100vh;
+    background: #4c4cff;
+    float: left;
+    transition: all 3s;
+}
+
+.side-left .shortcut .img .img-menus {
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+    background: rgba(4, 0, 255, 0.377);
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+.side-left .shortcut .img .img-menus {
+    background: rgba(4, 0, 255, 0.185);
+    opacity: 0.5;
+}
+
+.side-left .shortcut .img .inactive{
+    background: rgba(4, 0, 255, 0.377);
+    opacity: 1;
+}
+
+.side-left .shortcut .img-menus:hover {
+    background: rgba(4, 0, 255, 0.185);
+    opacity: 1;
+    transition: all 0.5s;
+}
+
+.side-left .shortcut .img .img-menus img {
+    height: 25px;
+    width: 25px;
+    margin-left: 5px;
+    margin-top: 6px;
+}
+
+.side-left .shortcut .img {
+    margin-top: 150px;
+}
+
+.side-left .shortcut .img .last {
+    margin-top: 60px;
+}
+
+.side-left .shortcut img{
+    height: 35px;
+    width: 35px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+.side-left .admin-profile {
+    background: whitesmoke;
+    width: 250px;
+    height: 100vh;
+    float: left;
+}
+
+.side-left .admin-profile .admin-picture {
+    width: 90px;
+    height: 90px;
+    background: #fff;
+    border-radius: 100%;
+    border: 1px solid rgb(121, 121, 121);
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.side-left .admin-profile .admin-picture img {
+    width: 80px;
+    height: 80px;
+    margin-top: 4px;
+    margin-left: 4px;
+    border-radius: 100%;
+}
+
+.side-left .admin-profile .admin-name {
+    margin: auto;
+    text-align: center;
+}
+
+.side-left .admin-profile .admin-name p {
+    margin-bottom: 2px;
+    font-size: large;
+}
+
+.side-left .admin-profile .admin-name .last{
+    color: rgb(95, 95, 95);
+    font-size: small;
+    margin-bottom: 30px;
+}
+
+.side-left .admin-profile .shortcut-title {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.side-left .admin-profile .shortcut-title p {
+    margin-bottom: 31px;
+    color: #B4B4B4;
+}
+
+.side-left .admin-profile .shortcut-title .inactive {
+    color: black;
+    transition: all 1s;
+}
+
+.side-left .admin-profile .shortcut-title .select:hover {
+    color:  #4c4cff;
+    transition: all 0.5s;
+}
+
+.side-left .admin-profile .shortcut-title a {
+    text-decoration: none;
+}
+
+.side-left .admin-profile .shortcut-title .last {
+    margin-top: 68px;
+}
+
+.main {
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+}
+
+.main .title {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.main .subtitle {
+    font-size: small;
+    color: #B4B4B4;
+}
+
+.main .medium-card {
+    margin-top: 10px;
+}
+
+.main .medium-card .card {
+    border: none;
+    margin-right: 20px;
+    width: 250px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.main .medium-card .card img {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 15px;
+}
+
+.main .medium-card .card .title {
+    margin-bottom: 0;
+    font-size: large;
+}
+
+.main .medium-card .card .title {
+    margin-bottom: 0;
+    font-size: medium;
+}
+
+.main .medium-card .card .data {
+    font-size: 38px;
+    margin-bottom: 0;
+}
+
+.main .medium-card .card .text {
+    font-size: medium;
+    color: #B4B4B4;
+}
+
+.main .large-card .card {
+    background: #fff;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 385px;
+    height: 350px;
+    float: left;
+    margin-right: 20px;
+}
+
+.main .large-card .card .text .title {
+    font-size: medium;
+    color: black;
+    float: left;
+    margin-bottom: 0;
+}
+
+.main .large-card .card .text button {
+    margin-bottom: 0;
+    margin-left: 165px;
+}
+
+.main .large-card .card .text .subtitle {
+    font-size: small;
+    color: #B4B4B4;
+    margin-bottom: 0;
+    margin-top: -5px;
+}
+
+/* .main .large-card .card button {
+    float: right;
+    margin-top: 10px;
+} */
+
+.main .large-card .card hr {
+    margin-bottom: 0;
+}
+
+.main .large-card .card .all-users {
+    overflow: auto;
+    height: 250px;
+}
+
+.main .large-card .card .all-users .users {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.main .large-card .card .all-users .users img {
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-right: 15px;
+}
+
+.main .large-card .card .all-users .users .users-profile {
+    float: left;
+}
+
+.main .large-card .card .all-users .users .users-profile .name {
+ font-size: small;
+ color: black;
+ margin-bottom: 0;
+ margin-top: 0;
+}
+
+.main .large-card .card .all-users .users .users-profile .passion {
+    font-size: x-small;
+    color: #B4B4B4;
+    margin-bottom: 0;
+}
+
+.main .large-card .card .all-users .users button {
+    margin-top: 6px;
+    width: 50px;
+    height: 25px;
+    font-size: x-small;
+    float: right;
+    margin-right: 15px;
+}

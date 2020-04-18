@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 64,
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "userId": 1,
+      "id": 63,
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "userId": 1,
+      "id": 62,
+      "title": "dolorem eum magni eos aperiam quia",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "id": 1571798101862,
+      "title": "maimanah",
+      "body": "maimunah",
+      "userId": 1
+    },
+    {
+      "id": 1571968212602,
+      "title": "mana",
+      "body": "manung",
+      "userId": 1
+    },
+    {
+      "id": 1571968408857,
+      "title": "sa",
+      "body": "sa",
+      "userId": 1
+    },
+    {
+      "id": 1571968696411,
+      "title": "asda",
+      "body": "asda",
+      "userId": 1
+    },
+    {
+      "id": 1571969103526,
+      "title": "sasdasd",
+      "body": "dasdasdas",
+      "userId": 1
+    },
+    {
+      "id": 1571969483232,
+      "title": "sw",
+      "body": "sw",
+      "userId": 1
+    },
+    {
+      "id": 1571969575836,
+      "title": "hvhvhkbkj",
+      "body": "bgkhkjnjl",
+      "userId": 1
+    },
+    {
+      "id": 1571969635091,
+      "title": "vhhvkmkb",
+      "body": "bjkjkb,",
+      "userId": 1
+    },
+    {
+      "id": 1572153497106,
+      "title": "aku adalah",
+      "body": "seorang pembalap grobakbnbnbn",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profiles": [
+    {
+      "title": "jsonserver"
+    }
+  ]
+}
